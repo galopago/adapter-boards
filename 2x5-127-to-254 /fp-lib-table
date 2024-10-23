@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Connector_PinHeader_2.54mm)(type KiCad)(uri ${KIPRJMOD}/modules/Connector_PinHeader_2.54mm.pretty)(options "")(descr ""))
+  (lib (name Connector_PinSocket_1.27mm)(type KiCad)(uri ${KIPRJMOD}/modules/Connector_PinSocket_1.27mm.pretty)(options "")(descr ""))
+  (lib (name Symbol)(type KiCad)(uri ${KIPRJMOD}/modules/Symbol.pretty)(options "")(descr ""))
+)
