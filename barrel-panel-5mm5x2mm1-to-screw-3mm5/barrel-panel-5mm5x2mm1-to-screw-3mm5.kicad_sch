@@ -84,7 +84,7 @@
     (uuid 68118650-38ea-42b4-9fa0-d2afa9698f5c)
     (property "Reference" "J1" (id 0) (at 118.11 81.28 0))
     (property "Value" "Barrel_Jack" (id 1) (at 118.11 83.82 0))
-    (property "Footprint" "Connector_BarrelJack:BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal" (id 2) (at 119.38 91.186 0)
+    (property "Footprint" "Connector_Barreljack_panel:BarrelJack_panel_5.5mmx2.1mm_2_pins" (id 2) (at 119.38 91.186 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.38 91.186 0)
@@ -100,7 +100,7 @@
 
   (symbol_instances
     (path "/68118650-38ea-42b4-9fa0-d2afa9698f5c"
-      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Connector_BarrelJack:BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Connector_Barreljack_panel:BarrelJack_panel_5.5mmx2.1mm_2_pins")
     )
   )
 )
