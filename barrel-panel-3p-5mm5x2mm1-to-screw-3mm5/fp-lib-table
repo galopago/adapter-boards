@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Connector_Barreljack_panel.pretty")(type "KiCad")(uri "${KIPRJMOD}/Connector_Barreljack_panel.pretty.pretty")(options "")(descr ""))
+)
