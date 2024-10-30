@@ -106,7 +106,7 @@
     (uuid 10764b11-b4da-492c-90ac-ab002632f8a8)
     (property "Reference" "J1" (id 0) (at 132.08 78.74 0))
     (property "Value" "Barrel_Jack_Switch" (id 1) (at 132.08 81.28 0))
-    (property "Footprint" "" (id 2) (at 133.35 88.646 0)
+    (property "Footprint" "Connector_Barreljack_panel.pretty:BarrelJack_panel_3p_5.5mmx2.1mm_2_pins" (id 2) (at 133.35 88.646 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 88.646 0)
@@ -123,7 +123,7 @@
 
   (symbol_instances
     (path "/10764b11-b4da-492c-90ac-ab002632f8a8"
-      (reference "J1") (unit 1) (value "Barrel_Jack_Switch") (footprint "")
+      (reference "J1") (unit 1) (value "Barrel_Jack_Switch") (footprint "Connector_Barreljack_panel.pretty:BarrelJack_panel_3p_5.5mmx2.1mm_2_pins")
     )
   )
 )
