@@ -1,20 +1,17 @@
-# 2x5 pin 1.27 mm male to 2.54 mm male header adapter PCB
+# SMA to U.FL adapter PCB
 
-This board was created to convert  between the "small" J-Link EDU Mini Programmer-Debbuger 1.27 mm pitch connector to a 2.54 mm male header.
+This board was created to convert U.FL antennas to SMA connector like the one found on Nano VNA.
 
-![PCB 3D picture](/2x5-127-to-254/assets/img/pcbadapter.jpg)
+![PCB 3D picture](/sma-u-fl/assets/img/pcbadapter.jpg)
 
-The J-Link EDU Mini sports a 2x5 1.27 mm male connector and includes a female to female 2x5 1.27 mm ribbon cable for target connection.
-
-If for some reason your target doesn't have the same connector (debug pins scattered somewhere on the PCB), or want to connect to a circuit on a breadboard, this PCB will ease the task. 
 
 PCB FRONT                                          | PCB BACK
 ---------------------------------------------------|----------------------------------------------
-![](/2x5-127-to-254/assets/img/pcbfront.jpg) |![](/2x5-127-to-254/assets/img/pcbback.jpg) 
+![](/sma-u-fl/assets/img/pcbfront.jpg) |![](/sma-u-fl/assets/img/pcbback.jpg) 
 
 
 ## Panelized PCB
-![](/2x5-127-to-254/assets/img/pcbpanel.jpg)
+![](/sma-u-fl/assets/img/pcbpanel.jpg)
 
 ## How to use this repository
 

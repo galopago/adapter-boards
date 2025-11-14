@@ -1,0 +1,11 @@
+# Archivos del servidor local para visualizar README.md
+preview-readme.sh
+markdown_server.py
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+

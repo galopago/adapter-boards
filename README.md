@@ -1,17 +1,21 @@
-# ADAPTER BOARDS
+# PCB TO PCB CONNECTOR ADAPTER
 
-Collection of boards that "translates" between two different type of connectors
+Adapters from different kind of connectors using a pcb.
 
-![ADAPTBOARD](/2x5-127-to-254/docs/pcb3d.png)
+## Board types
 
-<!--- Read this in other languages: [Español](/assets/markdown/README.es.md)  -->
+There are several board types, each one with different personalities
 
-## Versions
+2x5 Male 1.27 mm to Male 2.54 mm | SMA to U.FL 
+---|--- 
+![](/2x5-127-to-254/assets/img/pcbadapter.jpg) | ![](/sma-u-fl/assets/img/pcbadapter.jpg) 
+Barrel Panel 3p 5.5mmx2.1mm to Screw 3mm5 | 
+![](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/assets/img/pcbadapter.jpg) | 
 
-There are several board versions, each one with different personalities
 
-
-| HINT                               | LINK                                     
-|------------------------------------|--------------------------------------
-| 2x5 pins 1.27mm male to 2.54 male  | [2x5-127-to-254](/2x5-127-to-254)  
+| HINT                            | LINK                                     
+|---------------------------------|-----------------------------
+| 2x5 Male 1.27 mm to Male 2.54 mm| [2x5-127-to-254](/2x5-127-to-254/)  
+| SMA to U.FL                     | [sma-u-fl](/sma-u-fl/)
+| Barrel Panel 3p 5.5mmx2.1mm to Screw 3mm5 | [barrel-panel-3p-5mm5x2mm1-to-screw-3mm5](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/)  
 
