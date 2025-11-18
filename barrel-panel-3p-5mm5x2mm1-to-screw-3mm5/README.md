@@ -7,7 +7,7 @@ This board was created to convert a barrel panel connector (3 pin, 5.5mm x 2.1mm
 
 PCB FRONT                                          | PCB BACK
 ---------------------------------------------------|----------------------------------------------
-![](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/assets/img/pcbfront.jpg.) |![](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/assets/img/pcbback.jpg) 
+![](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/assets/img/pcbfront.jpg) |![](/barrel-panel-3p-5mm5x2mm1-to-screw-3mm5/assets/img/pcbback.jpg) 
 
 
 ## Panelized PCB
