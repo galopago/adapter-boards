@@ -286,6 +286,9 @@
 
   (gr_rect (start 100 100) (end 114 116)
     (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d81e52c7-9e25-455a-8ec3-e7121cc08a85))
+  (gr_text "TOGGLE SWITCH TO\nSCREW TERMINAL" (at 101.5 115.75) (layer "F.SilkS") (tstamp 0c51aeb2-e11d-4a6f-86f4-ac11f8cb5944)
+    (effects (font (size 0.8 0.8) (thickness 0.175) bold) (justify left bottom))
+  )
 
   (segment (start 111.65 104) (end 111.65 108.35) (width 0.5) (layer "F.Cu") (net 1) (tstamp 14f3f132-584c-43b4-a733-3cddf9553e77))
   (segment (start 110.5 109.5) (end 110.5 111.8) (width 0.5) (layer "F.Cu") (net 1) (tstamp 3775ec99-aeae-4675-a79d-8456279c4f35))
